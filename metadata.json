@@ -1,0 +1,6 @@
+{
+  "name": "WanderCraft",
+  "description": "Collaborative trip planner that crafts high-precision itineraries, route optimization, stay scouting, budgeting, and contingency plans for any budget and timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
